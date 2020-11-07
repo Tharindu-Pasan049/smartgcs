@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "123381593805",
+    "firebase_url": "https://smartgcs-181bd.firebaseio.com",
+    "project_id": "smartgcs-181bd",
+    "storage_bucket": "smartgcs-181bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123381593805:android:0b8000852a1153fbb15b84",
+        "android_client_info": {
+          "package_name": "com.example.smartgcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123381593805-p7r7o2t03qcab0rvp0ra1aiaaa2vqflj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf_23SOFPG6jTGoqYne_tnrI767XQbadI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123381593805-p7r7o2t03qcab0rvp0ra1aiaaa2vqflj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123381593805:android:3e4aeab40deaa33fb15b84",
+        "android_client_info": {
+          "package_name": "skyblazar.com.waste_mx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123381593805-p7r7o2t03qcab0rvp0ra1aiaaa2vqflj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf_23SOFPG6jTGoqYne_tnrI767XQbadI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123381593805-p7r7o2t03qcab0rvp0ra1aiaaa2vqflj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
